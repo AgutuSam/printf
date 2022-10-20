@@ -1,4 +1,5 @@
-# printf
+#!/bin/bash
+## printf
 
 ### Description
 
@@ -17,9 +18,6 @@ These arguments are placed using the percentage '%' operator
 
 ------------
 
-
-Secrets of printfby Don colton
-https://www.cypress.com/file/54761/download
 
 ------------
 
@@ -239,5 +237,5 @@ All the above options work well together.
 
 ### Authors &copy;
 
-- Jimmer Hernandez
-- Edward Ortiz
+- AgutuSam
+- Mary Sowa
